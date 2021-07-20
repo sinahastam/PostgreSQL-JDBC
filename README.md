@@ -1,2 +1,2 @@
-# Postgres JDBC 
+# PostgreSQL JDBC 
  
